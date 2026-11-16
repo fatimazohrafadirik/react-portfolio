@@ -1,0 +1,30 @@
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 10px;
+}
+
+.project {
+  border: 3px solid rgb(170, 157, 140);
+  border-radius: 15px;
+  box-shadow: 5px 10px burlywood;
+}
+
+.img {
+  max-width: 800px;
+  height: auto;
+  display: block;
+  margin: auto;
+  width: 50%;
+  margin-top: 100px;
+  margin-bottom: 80px;
+  border-radius: 50%;
+  border-color: black;
+  box-shadow: 5px 10px burlywood;
+}
+
+h1,
+h3 {
+  text-align: center;
+}
