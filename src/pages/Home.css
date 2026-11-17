@@ -1,0 +1,26 @@
+section {
+  color: white;
+  font-size: 25px;
+  font-style: oblique;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section img {
+  width: 30%;
+  border-radius: 30%;
+  margin-top: 80px;
+}
+
+section h3 {
+  align-items: center;
+  margin-top: 100px;
+  padding-right: 100px;
+  width: 800px;
+  transition: color 0.3s ease;
+}
+
+section h3:hover {
+  color: rgb(159, 159, 70);
+}

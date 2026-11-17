@@ -8,7 +8,8 @@
 .project {
   border: 3px solid rgb(170, 157, 140);
   border-radius: 15px;
-  box-shadow: 5px 10px burlywood;
+  box-shadow: 5px 10px #ffd700;
+  background-color: white;
 }
 
 .img {
@@ -24,7 +25,7 @@
   box-shadow: 5px 10px burlywood;
 }
 
-h1,
-h3 {
+.project h1,
+.project h3 {
   text-align: center;
 }
