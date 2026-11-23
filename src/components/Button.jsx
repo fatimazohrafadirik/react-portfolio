@@ -4,7 +4,7 @@ function ClickButton(props) {
   return (
     <button className="button" onClick={props.onClick}>
       <svg
-        class="svgIcon"
+        className="svgIcon"
         viewBox="0 0 512 512"
         height="1em"
         xmlns="http://www.w3.org/2000/svg"
